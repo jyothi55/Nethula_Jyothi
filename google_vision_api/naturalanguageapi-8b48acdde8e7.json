@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "naturalanguageapi",
+  "private_key_id": "8b48acdde8e725bee353b7da0447e1da838fc521",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCim6K+6RrkI70C\nP7k+VgWFgBKMQTJE0+GGNvmEpEtflL1WZc0udtPW68btn2ywuLl0wbNR2hiRI3dd\nObdeoNwzhlqkD1qrxLF/9QTW+ZUduwhg7u40KMUm83zZ6X7hEF3hLDN9CpwFs0B7\nYpunzHPfyNpvvf+CTg10BCKPTJPeflpH0zKYFUannj3lDUte3djynaC79mWSBhaT\nOPlUOfkO6ns/Q94luiqlqYa+DxWnycGEN3DK5CuANj1GdZi0dG3rpLBBGXfEXFMJ\nI6a2z7KRJjOL0Vc4xnuiTd4k2pF7YHaiflsACLlZGQhQyEVhpdmBX96VJEMqssTv\nxVnPOJQDAgMBAAECggEACcDiGydqSILoRGlEGDwaqq5K7oS+mihHX8COaOld6AbI\n8JS8oOvZuwt7bCdi4prB7QHtWpyFWrdQ4pOirxdg/eoyJ6MQIjtzFiTBPI/N5PGi\nCAZs3U4QvUxfkcaSqLdNmkMHd5maUDE3Te9VPNRjoumuSIOR/uPlpK7Wz9edCvxa\npvB/euwkUMmbVmJPmxtNk6A/A1pX+yc7v6tNowHgvNkgUJRNd3lhmqCYksCeWIPc\nB68Pawb3DvN+6jY3fS+HdEPwPyrcBS+YTck6jO2B5unuZiIw1L3ATTZBEHYFDDYi\nAw9lUWhKqjJL2VWPamCEMWlRVhJSl0nkGpbNy29AAQKBgQDeUPGk7x0STXv0dovu\n7736IrdaktBASjGB7FjWcp7FIvm+4buP8q8GzRkrDT996cfUjIFbwbtRTY8hhHtf\njptRVLRPitrrLcbLpzXg7FvUSVQ2i6IQAT7MvnCgwgYSg0Ru1UL5EW4+Oq5K6d6z\nX3ii3voGmbNvLCb8bU4FbgJgAQKBgQC7PsR7IzsSGg6933PAPbOn6u/vkqAqQ0H+\njH9HIoAxdvzWkGsxO+kCoemQavx00898Esv0/Ug8eXiNzsxUqzg3G7MxjkBs72/8\nYmpEQA/I5ISZ8Z+u9n+8Pid2Yzcf8GnF8wrGoCe6lRMEBRIHPBNjLvdH1ru98VwW\nXa1sEbF0AwKBgQCwH9BQql6NsXUSJxiVIrmPARHhX448YIr4MxXuTsAZzaut3YeK\ncujWqoXV5Zj3V85IRUf2OXT85EUQeLSE76V8uW5f1dG5n3puvPmiR544gB+HVvf9\nVf86lWUE9rF42SXN6IY2a+i6xCJwlvcng+s+nQfXUs0ktgXs1WuKQa0AAQKBgBLo\ngbrVke+ABiESYYP2NyArz1LoAZiC9jUYRvoN99gG5f1c1BZCsIL9irJ0u02o3fjv\nhP0WXqcMtSnMykF6kNCv0WadsM/PVgWsgoKl3XIx8VoCVle6uKdvt1hzKGvnQScm\nJd5s6dYjm6n6QRnN7T9EzN/KRWcm6l+v0gVpu/u1AoGAJToMBeoRq0YLigmSr6iZ\nNJhTtbIuaZrhnzpZ/yCNORKWZp6anS4BKZ3nyQQRYv1L++gHZliaOIvWcYda2Law\nD+6/OX3eB5xC4zER2fwZdywVEUbqiMqyXSRwcXtsTjm30fY/3va3m54pq/Jdhge2\nZJuhvqIlOsCD2rXDvHr79x8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudvisionapi@naturalanguageapi.iam.gserviceaccount.com",
+  "client_id": "108458828993028595383",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudvisionapi%40naturalanguageapi.iam.gserviceaccount.com"
+}
